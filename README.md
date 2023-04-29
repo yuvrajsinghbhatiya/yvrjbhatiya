@@ -9,11 +9,10 @@
 
 
 
-  - 🔭 I’m currently working on my personal projects based on full stack.
+- 🔭 I'm currently working on my personal projects in full stack development.
 - 🌱 I’m currently learning **Web Development**.
 - 👯 I’m looking to collaborate on Full stack development based projects.
 - 📫 How to reach me: yuvrajbhatiya57@gmail.com
-- 😄 Pronouns: He/Him/Yuvraj
 - 📍 Living in Uttarakhand, India.
 - ⚡ Fun fact: Being alone is sometimes my refuge.
 
