@@ -3,6 +3,8 @@
 <br/>
 ![me](https://raw.githubusercontent.com/yvrjbhatiya/yvrjbhatiya/main/myread.gif)
 
+<img src="[(https://raw.githubusercontent.com/yvrjbhatiya/yvrjbhatiya/main/myread.gif)"/>
+
 
 
   
