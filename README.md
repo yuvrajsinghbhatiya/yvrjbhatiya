@@ -3,7 +3,7 @@
 <br/>
 
   <p align="center">
-  <img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" alt="Alt Text"/>
+  <img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/giphy.gif?raw=true" alt="Alt Text"/>
   </p>
 
 
