@@ -2,21 +2,17 @@
 <h3 align="center">A passionate full stack web developer</h3>
 <br/>
 
-![Alt Text](https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true)
-
-
-<img src="[(https://raw.githubusercontent.com/yvrjbhatiya/yvrjbhatiya/main/myread.gif)"/>
+<img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" width="500" />
 
 
 
-  
 
-- 🔭 I’m currently working on my personal projects based on full stack.
-- 🌱 I’m currently learning **Web Development**
+  - 🔭 I’m currently working on my personal projects based on full stack.
+- 🌱 I’m currently learning **Web Development**.
 - 👯 I’m looking to collaborate on Full stack development based projects.
 - 📫 How to reach me: yuvrajbhatiya57@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Sometimes I am live alone in inner peace 😴.
+- 😄 Pronouns: He/Him/Yuvraj
+- ⚡ Fun fact: Being alone is sometimes my refuge.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yvrjbhatiya](https://github.com/yvrjbhatiya)
 
