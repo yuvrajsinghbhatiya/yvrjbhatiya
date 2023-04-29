@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <br/>
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
+  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+  
+
+- 🔭 I’m currently working on my personal projects based on full stack.
 - 🌱 I’m currently learning **Web Development**
+- 👯 I’m looking to collaborate on Full stack development based projects.
+- 📫 How to reach me: yuvrajbhatiya57@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Sometimes I am live alone in inner peace 😴.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yvrjbhatiya](https://github.com/yvrjbhatiya)
-
-- 📫 How to reach me **yuvrajbhatiya57@gmail.com**
-
-https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
