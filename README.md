@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **yuvrajbhatiya57@gmail.com**
 
+https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuvraj singh bhatiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj singh bhatiya" height="30" width="40" /></a>
