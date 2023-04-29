@@ -2,9 +2,8 @@
 <h3 align="center">A dedicated full stack web developer with a passion for innovation.</h3>
 <br/>
 
-<center>
-  <img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" width="800" />
-</center>
+  <img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" width="700" align="center" />
+
 
 
 
