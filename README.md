@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A dedicated full stack web developer with a passion for innovation.</h3>
 <br/>
 
-<img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" width="500" />
+<img src="https://github.com/yvrjbhatiya/yvrjbhatiya/blob/main/myread.gif?raw=true" width="800" />
 
 
 
@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on Full stack development based projects.
 - 📫 How to reach me: yuvrajbhatiya57@gmail.com
 - 😄 Pronouns: He/Him/Yuvraj
+- 📍 Living in Uttarakhand, India.
 - ⚡ Fun fact: Being alone is sometimes my refuge.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yvrjbhatiya](https://github.com/yvrjbhatiya)
