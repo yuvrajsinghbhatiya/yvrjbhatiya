@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <br/>
-![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+![Github](https://raw.githubusercontent.com/yvrjbhatiya/yvrjbhatiya/main/myread.gif)
 
-  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+
+
   
 
 - 🔭 I’m currently working on my personal projects based on full stack.
