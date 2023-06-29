@@ -2,11 +2,11 @@
 
 A dedicated web developer with a passion for innovation.
 
-🔭 Currently working on personal full stack development projects.
-🌱 Learning web development.
-👯 Open to collaborating on full stack development projects.
-📫 Reach me at yuvrajbhatiya57@gmail.com.
-📍 Based in Uttarakhand, India.
+- 🔭 Currently working on personal full stack development projects.
+- 🌱 Learning web development.
+- 👯 Open to collaborating on full stack development projects.
+- 📫 Reach me at yuvrajbhatiya57@gmail.com.
+- 📍 Based in Uttarakhand, India.
 
 ## Connect with me
 - LinkedIn: [linkedin.com/in/yuvrajbhatiya](https://linkedin.com/in/yuvrajbhatiya)
