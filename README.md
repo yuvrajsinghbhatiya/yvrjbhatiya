@@ -1,24 +1,18 @@
-# Hi, I'm Yuvraj! 👋
+Hi! My name is Yuvraj Singh Bhatiya 😀
+========================================================================================================================================
 
-A dedicated web developer with a passion for innovation.
+🌍  I am a Front-End Developer based in Uttarakhand, India.
+<br/>
 
-- 🔭 Currently working on personal full stack development projects.
-- 🌱 Learning Web development.
-- 👯 Open to collaborating on full stack development projects.
-- 📫 Reach me at yuvrajbhatiya57@gmail.com.
-- 📍 Based in Uttarakhand, India.
+### Skills
 
-## Connect with me
-- LinkedIn: [linkedin.com/in/yuvrajbhatiya](https://linkedin.com/in/yuvrajbhatiya)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
 
-## Languages and Tools
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-16.0-blueviolet)
-![Node.js](https://img.shields.io/badge/Node.js-14.0-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.0-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+### Socials
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yvrjbhatiya&show_icons=true&locale=en&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=yvrjbhatiya&show_icons=true&locale=en)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yvrjbhatiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
