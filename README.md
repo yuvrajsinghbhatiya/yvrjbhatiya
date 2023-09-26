@@ -11,7 +11,6 @@ Hi! My name is Yuvraj Singh Bhatiya 😀
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-
 <br/>
 
 ### Socials
